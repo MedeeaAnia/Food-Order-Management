@@ -1,0 +1,4 @@
+CUSTOMER: alex
+DATE AND TIME: Fri Jul 22 21:50:31 CDT 2022
+AMOUNT TO PAY :146
+PRODUCTS BOUGHT: Carrot-Beef Sushi with Caper-Basil Mustard ,Restorative Beef Broth 
